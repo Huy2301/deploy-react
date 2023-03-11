@@ -1,0 +1,13 @@
+:root {
+    font-size: medium;
+    --bg-mode: #ffffff;
+    --text-color: #000000;
+}
+.dark{
+    --bg-color: black;
+    --text-color : rgb(232, 240, 235);
+}
+.light{
+    --bg-color: #d41212;
+    --text-color: #1a14d5;
+}
